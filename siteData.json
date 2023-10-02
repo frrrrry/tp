@@ -8,7 +8,7 @@
         "about-us": "About Us",
         "nusearch": "NUSearch",
         "fan-ruoyu": "Fan Ruoyu",
-        "jane-doe": "Jane Doe",
+        "william-jacob": "William Jacob",
         "johnny-doe": "Johnny Doe",
         "jean-doe": "Jean Doe",
         "james-doe": "James Doe"
@@ -136,6 +136,14 @@
       "title": "",
       "headings": {
         "nusearch": "NUSearch"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/frrrrry.md",
+      "title": "Fan Ruoyu's Project Portfolio Page",
+      "headings": {
+        "project-nusearch": "Project: NUSearch"
       },
       "headingKeywords": {}
     },
