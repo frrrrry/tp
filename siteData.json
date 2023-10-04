@@ -10,7 +10,7 @@
         "fan-ruoyu": "Fan Ruoyu",
         "william-jacob": "William Jacob",
         "law-rui-xi": "Law Rui Xi",
-        "jean-doe": "Jean Doe",
+        "ong-xiao-wei": "Ong Xiao Wei",
         "james-doe": "James Doe"
       },
       "headingKeywords": {}
@@ -115,6 +115,7 @@
         "a-guide-to-reading-each-command": "A Guide to reading each command",
         "how-to-interpret-a-command-format": "How to interpret a command format",
         "features": "Features",
+        "ui-mockup": "UI Mockup",
         "faq": "FAQ",
         "known-issues": "Known issues",
         "command-summary": "Command summary"
@@ -142,6 +143,14 @@
       "title": "John Doe's Project Portfolio Page",
       "headings": {
         "project-addressbook-level-3": "Project: AddressBook Level 3"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/lawruixi.md",
+      "title": "Law Rui Xi's Project Portfolio Page",
+      "headings": {
+        "project-nusearch": "Project: NUSearch"
       },
       "headingKeywords": {}
     },
